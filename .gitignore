@@ -1,0 +1,12 @@
+# OS Junk
+*.DS_Store
+
+# Build Junk
+*.mod.c
+*.o
+*.ko
+*.o.cmd
+*.ko.cmd
+Module.symvers
+modules.order
+.tmp_versions
